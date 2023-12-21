@@ -1,0 +1,46 @@
+{
+	"id": "metanthropes-conductor",
+	"title": "Metanthropes Conductor",
+	"description": "Metanthropes Early Access Conductor Module",
+	"version": "0.9.001",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11.315"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "metanthropes",
+				"type": "system",
+				"compatibility": {}
+			}
+		]
+	},
+	"authors": [
+		{
+			"name": "qp",
+			"url": "https://www.metanthropes.com/profile/2-qp/",
+			"email": "qp.wormholes@gmail.com",
+			"discord": "qp#8888",
+			"flags": {
+				"github": "legitamine",
+				"patreon": "legitamine"
+			}
+		}
+	],
+	"media": [
+		{
+			"type": "setup",
+			"url": "http://localhost:30000/modules/metanthropes-conductor/artwork/cover/cover.jpg",
+			"flags": {},
+			"loop": false
+		}
+	],
+	"esmodules": ["module/metanthropes-conductor.mjs"],
+	"url": "https://github.com/legitamine/metanthropes-conductor",
+	"manifest": "https://github.com/legitamine/metanthropes-conductor/releases/latest/download/module.json",
+	"license": "https://github.com/legitamine/metanthropes-conductor/blob/main/LICENSE.txt",
+	"readme": "https://github.com/legitamine/metanthropes-conductor/blob/main/readme.md",
+	"changelog": "https://github.com/legitamine/metanthropes-conductor/blob/main/changelog.md",
+	"bugs": "https://gitub.com/legitamine/metanthropes-conductor/issues"
+}
