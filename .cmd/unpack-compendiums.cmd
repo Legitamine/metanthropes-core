@@ -6,4 +6,4 @@
 npm install -g @foundryvtt/foundryvtt-cli
 fvtt configure set installPath "F:/FoundryVTT/Foundry Virtual Tabletop"
 fvtt configure set dataPath "F:/FoundryVTT/"
-fvtt package workon "metanthropes-conductor" --type "Module"
+fvtt package workon "metanthropes-core" --type "Module"

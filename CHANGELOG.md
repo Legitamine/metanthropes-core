@@ -1,10 +1,10 @@
 # Latest Changes
 
-These are the latest changes to the Metanthropes Conductor Module
+These are the latest changes to the Metanthropes Core Module
 
 Based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format
 
-# Early Access v0.9.002 [2023-12-21]
+# Early Access v0.9.003 [2023-12-21]
 
 ## Initial Release
 

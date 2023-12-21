@@ -1,8 +1,8 @@
 {
-	"id": "metanthropes-conductor",
-	"title": "Metanthropes Conductor",
-	"description": "Metanthropes Early Access Conductor Module",
-	"version": "0.9.002",
+	"id": "metanthropes-core",
+	"title": "Metanthropes Core",
+	"description": "Metanthropes Early Access Core Module",
+	"version": "0.9.003",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
@@ -31,16 +31,16 @@
 	"media": [
 		{
 			"type": "setup",
-			"url": "http://localhost:30000/modules/metanthropes-conductor/artwork/cover/cover.jpg",
+			"url": "http://localhost:30000/modules/metanthropes-core/artwork/cover/cover.jpg",
 			"flags": {},
 			"loop": false
 		}
 	],
-	"esmodules": ["module/metanthropes-conductor.mjs"],
-	"url": "https://github.com/legitamine/metanthropes-conductor",
-	"manifest": "https://github.com/legitamine/metanthropes-conductor/releases/latest/download/module.json",
-	"license": "https://github.com/legitamine/metanthropes-conductor/blob/main/LICENSE.txt",
-	"readme": "https://github.com/legitamine/metanthropes-conductor/blob/main/readme.md",
-	"changelog": "https://github.com/legitamine/metanthropes-conductor/blob/main/changelog.md",
-	"bugs": "https://gitub.com/legitamine/metanthropes-conductor/issues"
+	"esmodules": ["module/metanthropes-core.mjs"],
+	"url": "https://github.com/legitamine/metanthropes-core",
+	"manifest": "https://github.com/legitamine/metanthropes-core/releases/latest/download/module.json",
+	"license": "https://github.com/legitamine/metanthropes-core/blob/main/LICENSE.txt",
+	"readme": "https://github.com/legitamine/metanthropes-core/blob/main/readme.md",
+	"changelog": "https://github.com/legitamine/metanthropes-core/blob/main/changelog.md",
+	"bugs": "https://gitub.com/legitamine/metanthropes-core/issues"
 }
