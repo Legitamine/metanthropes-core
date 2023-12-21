@@ -2,7 +2,7 @@
 	"id": "metanthropes-conductor",
 	"title": "Metanthropes Conductor",
 	"description": "Metanthropes Early Access Conductor Module",
-	"version": "0.9.001",
+	"version": "0.9.002",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"

@@ -1,7 +1,7 @@
 ![image](https://content.invisioncic.com/e290497/monthly_2022_12/01.jpg.10f501a62b5254cef6f04d9f87c8b52d.jpg)
 ![Foundry v11](https://img.shields.io/badge/foundry-v11-green)
 
-# Metanthropes RPG Early Access Module - Conductor Edition
+# Metanthropes RPG Early Access Module - Conductor
 
 This Foundry VTT Module is part of the official Metanthropes RPG System for Foundry VTT
 
@@ -10,7 +10,7 @@ This Foundry VTT Module is part of the official Metanthropes RPG System for Foun
 
 ## Installation
 
-This is a work in progress and is not ready for general use. Installation instructions will be placed here when the system is ready. Please do not use this system for your games, unless you want to help playtest and know what you're doing. If so, please [join us on Discord](https://metanthropes.com/discord)
+This is a work in progress and is not ready for general use. Installation instructions will be placed here when the system is ready. Please do not use this Module for your games, unless you want to help playtest and know what you're doing. If so, please [join us on Discord](https://metanthropes.com/discord)
 
 ## Planned Features
 
