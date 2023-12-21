@@ -1,5 +1,5 @@
 /**
- * Metanthropes Early Access Conductor Module for Foundry VTT
+ * Metanthropes Early Access Core Module for Foundry VTT
  * Author: qp aka The Orchestrator
  *
  * Throughtout this project, I use the following syntax for comments:
@@ -109,11 +109,11 @@ Hooks.once("init", async function () {
 		},
 	];
 	CONFIG.statusEffects.push(...metaStatusEffects);
-	//? Conductor Module Settings
-	game.settings.register("metanthropes", "metaConductor", {
-		name: "Enable Conductor Features",
+	//? Core Module Settings
+	game.settings.register("metanthropes", "metaCore", {
+		name: "Enable Core Features",
 		hint: `
-		Enable this setting to gain access to the Conductor Module Features.
+		Enable this setting to gain access to the core Module Features.
 		`,
 		scope: "world", //? This specifies if it's a client-side setting
 		config: true, //? This makes the setting appear in the module configuration
