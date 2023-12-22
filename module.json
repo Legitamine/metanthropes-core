@@ -2,7 +2,7 @@
 	"id": "metanthropes-core",
 	"title": "Metanthropes Core",
 	"description": "Metanthropes Early Access Core Module",
-	"version": "0.9.004",
+	"version": "0.9.005",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
